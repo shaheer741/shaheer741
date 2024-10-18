@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Shaheer</h1>
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" />
-  <p>[briefly describe yourself and your interests]</p>
+  <!-- <p>[briefly describe yourself and your interests]</p> -->
 </div>
 
 <div id="badges" align="center">
@@ -30,7 +30,7 @@
 <div id="stats" align="center">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=shaheer741&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer741&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer741&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/> -->
 </div>
 
 <!-- <div id="skills">
