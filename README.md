@@ -8,11 +8,14 @@
   <a href="https://www.linkedin.com/in/shaheerkhalid10/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/22097024/shaheer-khalid">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
   <!-- <a href="[link to your Medium profile]">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
   <a href="[link to your Tableau profile]">
-    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/https://stackoverflow.com/?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a> -->
 </div>
 
