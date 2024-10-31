@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Shaheer</h1>
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/shaheer741/shaheer741/refs/heads/main/assets/images/developer.gif" width="100%" />
   <!-- <p>[briefly describe yourself and your interests]</p> -->
 </div>
 
+<!-- Links to different profiles -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shaheerkhalid10/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,12 +12,6 @@
   <a href="https://stackoverflow.com/users/22097024/shaheer-khalid">
     <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
-  <!-- <a href="[link to your Medium profile]">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-  <a href="[link to your Tableau profile]">
-    <img src="https://img.shields.io/badge/https://stackoverflow.com/?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-  </a> -->
 </div>
 
 <!-- <div id="bio">
