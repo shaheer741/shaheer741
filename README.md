@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Shaheer</h1>
-  <img src="https://raw.githubusercontent.com/shaheer741/shaheer741/refs/heads/main/assets/images/developer.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/shaheer741/shaheer741/refs/heads/main/assets/images/developer.gif" width="600" />
   <!-- <p>[briefly describe yourself and your interests]</p> -->
 </div>
 
